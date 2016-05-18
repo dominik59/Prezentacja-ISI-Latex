@@ -43,3 +43,5 @@ Powyższe repozytorium zawiera prezentację zrealizowaną w języku LATEX.
 9. W tym momencie wyświetli nam się kod projektu (po lewej stronie) i podgląd projektu (po prawej stronie).
 
 ![alt tag](README/8.PNG)
+
+#W celu otworzenia dokumentu z opisem prezentacji, należy analogicznie postępować.
