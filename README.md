@@ -3,7 +3,7 @@ Prezentacja z przedmiotu ISI na temat metodyki PCM
 
 Powyższe repozytorium zawiera prezentację zrealizowaną w języku LATEX.
 
-#Co zrobić aby otworzyć prezentację w formacie PDF?
+#Jak otworzyć prezentację w formacie PDF?
 
 1. Pobieramy repozytorium na komputer.
 2. Wchodzimy w:
@@ -14,7 +14,7 @@ Powyższe repozytorium zawiera prezentację zrealizowaną w języku LATEX.
 
 ![alt tag](README/2.PNG)
 
-#Co zrobić by odtworzyć wersję napisaną w języku LATEX?
+#Jak odtworzyć wersję napisaną w języku LATEX?
 
 1. Pobieramy repozytorium na komputer.
 2. Wchodzimy na stronę: https://www.sharelatex.com/
