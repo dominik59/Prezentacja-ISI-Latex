@@ -44,4 +44,4 @@ Powyższe repozytorium zawiera prezentację zrealizowaną w języku LATEX.
 
 ![alt tag](README/8.PNG)
 
-#W celu otworzenia dokumentu z opisem prezentacji, należy analogicznie postępować.
+#W celu otworzenia dokumentu z opisem prezentacji, należy postępować analogicznie.
