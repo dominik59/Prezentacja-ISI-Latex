@@ -1,7 +1,7 @@
-# Prezentacja-ISI-Latex
-Prezentacja na przedmiot ISI z przedmiotu ISI
+# Prezentacja-Latex-SI
+Prezentacja z przedmiotu ISI na temat metodyki PCM
 
-Powyższe repozytorium zawiera reaizację prezentację zrealizowaną w języku LATEX na przedmiot ISI
+Powyższe repozytorium zawiera prezentację zrealizowaną w języku LATEX.
 
 #Co zrobić aby otworzyć prezentację w formacie PDF?
 
